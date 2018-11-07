@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/adam-j-turner/runtime-mgr-api.svg?branch=master)](https://travis-ci.com/adam-j-turner/runtime-mgr-api)
+
 # runtime_mgr_api
 Python wrapper for MuleSoft Anypoint Runtime Manager API
 
