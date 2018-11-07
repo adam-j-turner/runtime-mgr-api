@@ -181,7 +181,7 @@ class TestTargets(TestCase):
                 HTTMock(cluster_mock):
 
             rma = API('fake_user', 'fake_pass')
-            self.assertEquals(len(rma.get_targets()), 3)
+            self.assertEqual(len(rma.get_targets()), 3)
 
 
 class TestDeploy(TestCase):
